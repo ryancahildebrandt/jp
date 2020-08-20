@@ -1,6 +1,6 @@
 ### Japanese Language Resume
 
-# Ryan Hildebrandt
+# Ryan Hildebrandt, MS
 
 [Homepage](https://github.com/ryancahildebrandt) - [LinkedIn](https://linkedin.com/in/rcah) - [ResearchGate](https://researchgate.net/profile/Ryan\_Hildebrandt)<br>
 ryancahildebrandt@gmail.com<br>
