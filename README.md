@@ -40,16 +40,16 @@ Rochester, NY USA<br>
 > Language teaching - Translation - Linguistic theory - Cultural & educational activities - Natural Language Processing - Multilingual Research
 
 ### Japanese - CEFR B2
-Conversational
-Advanced High
-Compositional - Spoken
-Advanced Mid
-Compositional - Written 
-Intermediate High
-Interpretive - Spoken 
-Intermediate High
-Interpretive - Written
-Intermediate Mid
+Conversational<br>
+-*Advanced High*<br>
+Presentational - Spoken<br>
+-*Advanced Mid*<br>
+Presentational - Written<br> 
+-*Intermediate High*<br>
+Interpretive - Spoken<br>
+-*Intermediate High*<br>
+Interpretive - Written<br>
+-*Intermediate Mid*<br>
 
 ## Work Experience
 
@@ -62,7 +62,7 @@ Intermediate Mid
 
 ### Concordia Language Villages - Credit Teacher & Camp Counselor
 
-> *June 2015 - August 2019*<br>
+> *July 2015 - Present*<br>
 > *Bemidji, MN*<br>
 
 > - Collaborate with other counseling staff to run Mori No Ike Japanese Language Immersion Camp for a period of four to five weeks, working with children and students ages 8 to 18
