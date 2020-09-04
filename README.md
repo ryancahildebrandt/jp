@@ -60,17 +60,33 @@ Language teaching - Translation - Linguistic theory - Cultural & educational act
 
 - Provide in-person and online tutoring services for students ranging from high school to PhD level, in a range of topics including statistics, psychology, Japanese, R, and data analysis
 
-### Concordia Language Villages - Credit Teacher & Camp Counselor
-
+### Concordia Language Villages
 *July 2015 - Present*<br>
 *Bemidji, MN*<br>
 
+#### Japanese Cultural Activities & Language Instructor, Academic Year Program
+*September 2020 - Present*<br>
+*Remote*<br>
+
+- Lead virtual Japanese cultural activities including cooking, tea ceremony, and calligraphy, over the academic year as a part of CLV's academic year programs
+
+#### Japanese High-School Credit Teacher, Summer Session
+*July 2017 - August 2019*<br>
+*Bemidji, MN*<br>
+
+- Teach daily Japanese language classes for students ranging from beginner to ~300 level Japanese, including curricuum structuring, lesson planning, student assessments, and a range of activities and projects to showcase student outcomes
+- Classes take place over 4 weeks as a part of CLV's Accredited high school credit Summer programs, equivalent to one academic year of instruction totaling 180 hours when combined with other immersion activities at the camp
+
+#### Summer Camp Counselor
+*July 2015 - August 2019*<br>
+*Bemidji, MN*<br>
+
 - Collaborate with other counseling staff to run Mori No Ike Japanese Language Immersion Camp for a period of four to five weeks, working with children and students ages 8 to 18
-- Create original programming and camp activities entirely in Japanese on a daily basis, including language teaching activities for high school credit, dance, cultural activities, and educational presentations
+- Create original programming and camp activities entirely in Japanese on a daily basis, including language instruction, dance, cultural activities, and educational presentations
 
 ### Himi City Port Authority - Fish Market Floor Intern
 
-*Oct 2014*<br>
+*October 2014*<br>
 *Himi City, Toyama, Japan*<br>
 
 - Communicate with other fish market floor staff to receive, sort, process, and
