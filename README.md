@@ -64,11 +64,12 @@ Language teaching - Translation - Linguistic theory - Cultural & educational act
 *July 2015 - Present*<br>
 *Bemidji, MN*<br>
 
-#### Japanese Cultural Activities & Language Instructor, Academic Year Program
+#### Japanese Language & Cultural Activities Instructor, Academic Year Program
 *September 2020 - Present*<br>
 *Remote*<br>
 
-- Lead virtual Japanese cultural activities including cooking, tea ceremony, and calligraphy, over the academic year as a part of CLV's academic year programs
+- Teach Japanese language classes for high school credit, working with students ranging from beginner to intermediate-advanced level
+- Lead virtual Japanese cultural activities including cooking, tea ceremony, and calligraphy, over the academic year as a part of CLV's academic year programs.
 
 #### Japanese High-School Credit Teacher, Summer Session
 *July 2017 - August 2019*<br>
