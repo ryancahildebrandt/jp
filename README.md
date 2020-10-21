@@ -53,6 +53,15 @@ Language teaching - Translation - Linguistic theory - Cultural & educational act
 
 ## Work Experience
 
+### Cerence, Inc. - Japanese Natural Language Understanding Specialist
+
+*Oct 2020 - Present*<br>
+*Burlington, MA (Remote)*<br>
+
+- Revise and extend natural language understanding grammars used for speech recognition software
+- Analyze errors in NLU machine learning model output
+- Localize NLU resources into Japanese
+
 ### RIT & Varsity Tutors - Tutor
 
 *Sept 2019 - Present*<br>
